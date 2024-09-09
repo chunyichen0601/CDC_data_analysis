@@ -1,4 +1,5 @@
 /plot/
+/plot_result/
 /data/
 *.RData
 *.Rhistory
